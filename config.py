@@ -2,8 +2,8 @@
 # НАСТРОЙКИ БОТА — ЗАПОЛНИ ПЕРЕД ЗАПУСКОМ
 # ==============================
 
-BOT_TOKEN = "ВАШ_ТОКЕН_ЗДЕСЬ"          # Токен от @BotFather
-ADMIN_ID = 123456789                     # Ваш Telegram ID (узнать у @userinfobot)
+BOT_TOKEN = "8784980945:AAGmw9J1TC3Hdr-xougwjZvYwdRtcl-r-Nk"          # Токен от @BotFather
+ADMIN_ID = 113110503                     # Ваш Telegram ID (узнать у @userinfobot)
 
 # Кошелёк для приёма TON
 TON_WALLET = "UQBb2Kf7pIUVKsZ5eZj_oZJVHlvoH6pCWTR2SSsjoW0sNmWf"
